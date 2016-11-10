@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestGrability</string>
+    <string name="servicios">https://itunes.apple.com/us/rss/topfreeapplications/limit=20/json</string>
+    <string name="nombre_transicion_imagen">imagen_compartida</string>
+    <string name="action_settings">Settings</string>
+</resources>
